@@ -7,20 +7,20 @@
 
 用 **Grok Imagine** 生成的爆款 AI 视频合集 —— 电影感短片、广告、动漫与音乐视频,一段 prompt 直接生成。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 103 条视频](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos)**
+**[▶ 在 clawshelf.com 观看全部 109 条视频](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 其他单模型专集:[Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **103 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-grok-imagine-videos/issues/new?template=submit-video.yml)
+[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **109 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-grok-imagine-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-23):共 103 条
+- 最近更新(2026-10-23):共 109 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [电影感短片](#电影感短片) (96)
+- [电影感短片](#电影感短片) (102)
 - [广告与品牌片](#广告与品牌片) (0)
 - [动漫与动画](#动漫与动画) (3)
 - [音乐视频](#音乐视频) (4)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/cyberpunk-mechanical-dragon-transformation?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/aiminithoughts-406720/preview.webp" alt="Grok Imagine video by @Aiminithoughts" width="100%"></a><br><a href="https://x.com/Aiminithoughts/status/2112853596421406720"><b>@Aiminithoughts</b></a> · <a href="prompts/aiminithoughts-406720.md">提示词</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/cinematic-laptop-product-reveal?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/jacek1029984002-350106/preview.webp" alt="Grok Imagine video by @Jacek1029984002" width="100%"></a><br><a href="https://x.com/Jacek1029984002/status/2112798047713350106"><b>@Jacek1029984002</b></a> · <a href="prompts/jacek1029984002-350106.md">提示词</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/abstract-red-background-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/raves9361-834293/preview.webp" alt="Grok Imagine video by @raves9361" width="100%"></a><br><a href="https://x.com/raves9361/status/2112788079555834293"><b>@raves9361</b></a> · <a href="prompts/raves9361-834293.md">提示词</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 96 条](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos&category=cinematic)
+[▶ 在 clawshelf.com 查看全部 102 条](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos&category=cinematic)
 
 ## 广告与品牌片
 

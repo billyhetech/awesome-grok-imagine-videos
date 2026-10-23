@@ -7,20 +7,20 @@
 
 Viral videos made with **Grok Imagine** — cinematic shorts, ads, anime and music videos generated straight from a prompt. Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 103 videos on clawshelf.com](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos)**
+**[▶ Watch all 109 videos on clawshelf.com](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-**103 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-grok-imagine-videos/issues/new?template=submit-video.yml)
+**109 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-grok-imagine-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-23): 103 videos total
+- Latest update (2026-10-23): 109 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Cinematic shorts](#cinematic-shorts) (96)
+- [Cinematic shorts](#cinematic-shorts) (102)
 - [Ads & brand films](#ads--brand-films) (0)
 - [Anime & animation](#anime--animation) (3)
 - [Music videos](#music-videos) (4)
@@ -37,7 +37,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/cyberpunk-mechanical-dragon-transformation?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/aiminithoughts-406720/preview.webp" alt="Grok Imagine video by @Aiminithoughts" width="100%"></a><br><a href="https://x.com/Aiminithoughts/status/2112853596421406720"><b>@Aiminithoughts</b></a> · <a href="prompts/aiminithoughts-406720.md">Prompt</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/cinematic-laptop-product-reveal?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/jacek1029984002-350106/preview.webp" alt="Grok Imagine video by @Jacek1029984002" width="100%"></a><br><a href="https://x.com/Jacek1029984002/status/2112798047713350106"><b>@Jacek1029984002</b></a> · <a href="prompts/jacek1029984002-350106.md">Prompt</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/abstract-red-background-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/raves9361-834293/preview.webp" alt="Grok Imagine video by @raves9361" width="100%"></a><br><a href="https://x.com/raves9361/status/2112788079555834293"><b>@raves9361</b></a> · <a href="prompts/raves9361-834293.md">Prompt</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ See all 96 on clawshelf.com](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos&category=cinematic)
+[▶ See all 102 on clawshelf.com](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos&category=cinematic)
 
 ## Ads & brand films
 
