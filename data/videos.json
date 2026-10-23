@@ -2776,7 +2776,19 @@
   ],
   "prompt": "Do a slow zoom out on this image (the leaves are from a poinsettia, make it match), let the water drops fall and hear a quiet rain background",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/grok-imagine/goesm3li-532456/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/grok-imagine/goesm3li-532456/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/grok-imagine/goesm3li-532456/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/grok-imagine/goesm3li-532456/poster.jpg",
+   "width": 448,
+   "height": 672,
+   "duration_ms": 6041,
+   "bytes": 1354824,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "hanagekkou-288819",
@@ -2792,7 +2804,19 @@
   ],
   "prompt": "Portrait style of a blue tiger made of shining gems. The blue fur looks like sapphire, and the black stripes have the texture of black pearls. The eyes have a dull glow like gray moonstone. Aspect ratio 9:16. No text please 🐯",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/grok-imagine/hanagekkou-288819/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/grok-imagine/hanagekkou-288819/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/grok-imagine/hanagekkou-288819/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/grok-imagine/hanagekkou-288819/poster.jpg",
+   "width": 704,
+   "height": 1280,
+   "duration_ms": 10041,
+   "bytes": 10507985,
+   "synced_at": "2026-10-23"
+  }
  },
  {
   "slug": "clingdaddy1-292868",
@@ -2808,6 +2832,18 @@
   ],
   "prompt": "Build a video of the new roadster with a Speed a racer Mach 5 steering wheel and pushing a button makes it jump over speed bumps",
   "prompt_partial": false,
-  "added": "2026-10-23"
+  "added": "2026-10-23",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/grok-imagine/clingdaddy1-292868/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/grok-imagine/clingdaddy1-292868/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/grok-imagine/clingdaddy1-292868/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/grok-imagine/clingdaddy1-292868/poster.jpg",
+   "width": 736,
+   "height": 400,
+   "duration_ms": 6041,
+   "bytes": 1830075,
+   "synced_at": "2026-10-23"
+  }
  }
 ]
