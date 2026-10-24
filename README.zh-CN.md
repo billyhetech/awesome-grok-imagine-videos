@@ -7,20 +7,20 @@
 
 用 **Grok Imagine** 生成的爆款 AI 视频合集 —— 电影感短片、广告、动漫与音乐视频,一段 prompt 直接生成。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 109 条视频](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos)**
+**[▶ 在 clawshelf.com 观看全部 113 条视频](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 其他单模型专集:[Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **109 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-grok-imagine-videos/issues/new?template=submit-video.yml)
+[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **113 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-grok-imagine-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-23):共 109 条
+- 最近更新(2026-10-24):共 113 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [电影感短片](#电影感短片) (102)
+- [电影感短片](#电影感短片) (106)
 - [广告与品牌片](#广告与品牌片) (0)
 - [动漫与动画](#动漫与动画) (3)
 - [音乐视频](#音乐视频) (4)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/cyberpunk-mechanical-dragon-transformation?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/aiminithoughts-406720/preview.webp" alt="Grok Imagine video by @Aiminithoughts" width="100%"></a><br><a href="https://x.com/Aiminithoughts/status/2112853596421406720"><b>@Aiminithoughts</b></a> · <a href="prompts/aiminithoughts-406720.md">提示词</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/cinematic-laptop-product-reveal?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/jacek1029984002-350106/preview.webp" alt="Grok Imagine video by @Jacek1029984002" width="100%"></a><br><a href="https://x.com/Jacek1029984002/status/2112798047713350106"><b>@Jacek1029984002</b></a> · <a href="prompts/jacek1029984002-350106.md">提示词</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/abstract-red-background-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/raves9361-834293/preview.webp" alt="Grok Imagine video by @raves9361" width="100%"></a><br><a href="https://x.com/raves9361/status/2112788079555834293"><b>@raves9361</b></a> · <a href="prompts/raves9361-834293.md">提示词</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 102 条](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos&category=cinematic)
+[▶ 在 clawshelf.com 查看全部 106 条](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos&category=cinematic)
 
 ## 广告与品牌片
 
@@ -66,6 +66,10 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [Grok Imagine Daily Life Video Prompt](https://clawshelf.com/ai-videos/grok-imagine/grok-daily-life-video-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@HaluAIArt](https://x.com/HaluAIArt/status/2113835372463472982) · [提示词](prompts/haluaiart-472982.md)
+- [Rainy Night Tram Stop Cinematic Portrait](https://clawshelf.com/ai-videos/grok-imagine/rainy-night-tram-stop-cinematic-portrait?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@452864064q45713](https://x.com/452864064q45713/status/2113611424572342475) · [提示词](prompts/452864064q45713-342475.md)
+- [Rooftop Blackout Video Prompt](https://clawshelf.com/ai-videos/grok-imagine/rooftop-blackout-video-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@Imagvio_AI](https://x.com/Imagvio_AI/status/2113374844448293044) · [提示词](prompts/imagvio-ai-293044.md)
+- [Cyberpunk Body Horror Transformation](https://clawshelf.com/ai-videos/grok-imagine/cyberpunk-body-horror-transformation?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@Aiminithoughts](https://x.com/Aiminithoughts/status/2113287133167239203) · [提示词](prompts/aiminithoughts-239203.md)
 - [Elon Musk Explaining Oxygen Circulation in SpaceX Engine](https://clawshelf.com/ai-videos/grok-imagine/elon-musk-explaining-oxygen-circulation-spacex?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@CHINA_PUNTER](https://x.com/CHINA_PUNTER/status/2033062400044445904) · [提示词](prompts/china-punter-445904.md)
 - [Grok Imagine prompt for Hachiko's life video](https://clawshelf.com/ai-videos/grok-imagine/grok-prompt-hachikos-life-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@HachikoS0L](https://x.com/HachikoS0L/status/2033111579575591089) · [提示词](prompts/hachikos0l-591089.md)
 - [Video generation prompt: Celestial Valkyrie descending to Earth in the rain](https://clawshelf.com/ai-videos/grok-imagine/video-generation-prompt-celestial-valkyrie-descending?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@makoto_so](https://x.com/makoto_so/status/2033124612234686633) · [提示词](prompts/makoto-so-686633.md)
@@ -92,10 +96,6 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Nighttime Megapolis Car Scene Prompt](https://clawshelf.com/ai-videos/grok-imagine/nighttime-megapolis-car-scene-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@AstropubSBTX](https://x.com/AstropubSBTX/status/2112616386010710451) · [提示词](prompts/astropubsbtx-710451.md)
 - [Tesla Roadster Desert Flight](https://clawshelf.com/ai-videos/grok-imagine/tesla-roadster-desert-flight?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@AstropubSBTX](https://x.com/AstropubSBTX/status/2112596021847158826) · [提示词](prompts/astropubsbtx-158826.md)
 - [EV Lifestyle Selfie Video](https://clawshelf.com/ai-videos/grok-imagine/ev-lifestyle-selfie-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@RadCyberTruck](https://x.com/RadCyberTruck/status/2112571075037159729) · [提示词](prompts/radcybertruck-159729.md)
-- [Arthur AI Art History Bot](https://clawshelf.com/ai-videos/grok-imagine/arthur-ai-art-history-bot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@WGlencora](https://x.com/WGlencora/status/2112566025049039209) · [提示词](prompts/wglencora-039209.md)
-- [Lady Leaning On Cybertruck](https://clawshelf.com/ai-videos/grok-imagine/lady-leaning-cybertruck?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@RadCyberTruck](https://x.com/RadCyberTruck/status/2112564183518646624) · [提示词](prompts/radcybertruck-646624.md)
-- [EDM Party Animation Style](https://clawshelf.com/ai-videos/grok-imagine/edm-party-animation-style?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@raves9361](https://x.com/raves9361/status/2112521367635857468) · [提示词](prompts/raves9361-857468.md)
-- [Grok Imagine Cosplay Pose Video Prompt](https://clawshelf.com/ai-videos/grok-imagine/grok-cosplay-pose-video-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@HaluAIArt](https://x.com/HaluAIArt/status/2112491518904680856) · [提示词](prompts/haluaiart-680856.md)
 
 ## 如何使用 prompt
 

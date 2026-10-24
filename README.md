@@ -7,20 +7,20 @@
 
 Viral videos made with **Grok Imagine** — cinematic shorts, ads, anime and music videos generated straight from a prompt. Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 109 videos on clawshelf.com](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos)**
+**[▶ Watch all 113 videos on clawshelf.com](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Gemini 4 Argon](https://github.com/billyhetech/awesome-gemini4-argon-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-**109 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-grok-imagine-videos/issues/new?template=submit-video.yml)
+**113 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-grok-imagine-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-23): 109 videos total
+- Latest update (2026-10-24): 113 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Cinematic shorts](#cinematic-shorts) (102)
+- [Cinematic shorts](#cinematic-shorts) (106)
 - [Ads & brand films](#ads--brand-films) (0)
 - [Anime & animation](#anime--animation) (3)
 - [Music videos](#music-videos) (4)
@@ -37,7 +37,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/cyberpunk-mechanical-dragon-transformation?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/aiminithoughts-406720/preview.webp" alt="Grok Imagine video by @Aiminithoughts" width="100%"></a><br><a href="https://x.com/Aiminithoughts/status/2112853596421406720"><b>@Aiminithoughts</b></a> · <a href="prompts/aiminithoughts-406720.md">Prompt</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/cinematic-laptop-product-reveal?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/jacek1029984002-350106/preview.webp" alt="Grok Imagine video by @Jacek1029984002" width="100%"></a><br><a href="https://x.com/Jacek1029984002/status/2112798047713350106"><b>@Jacek1029984002</b></a> · <a href="prompts/jacek1029984002-350106.md">Prompt</a><br><sub>AI video</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/grok-imagine/abstract-red-background-scene?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos"><img src="https://media.clawshelf.com/ai-videos/grok-imagine/raves9361-834293/preview.webp" alt="Grok Imagine video by @raves9361" width="100%"></a><br><a href="https://x.com/raves9361/status/2112788079555834293"><b>@raves9361</b></a> · <a href="prompts/raves9361-834293.md">Prompt</a><br><sub>AI video</sub></td></tr>
 </table>
 
-[▶ See all 102 on clawshelf.com](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos&category=cinematic)
+[▶ See all 106 on clawshelf.com](https://clawshelf.com/ai-videos/grok-imagine?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos&category=cinematic)
 
 ## Ads & brand films
 
@@ -66,6 +66,10 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-grok-ima
 
 ## Latest videos
 
+- [Grok Imagine Daily Life Video Prompt](https://clawshelf.com/ai-videos/grok-imagine/grok-daily-life-video-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@HaluAIArt](https://x.com/HaluAIArt/status/2113835372463472982) · [Prompt](prompts/haluaiart-472982.md)
+- [Rainy Night Tram Stop Cinematic Portrait](https://clawshelf.com/ai-videos/grok-imagine/rainy-night-tram-stop-cinematic-portrait?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@452864064q45713](https://x.com/452864064q45713/status/2113611424572342475) · [Prompt](prompts/452864064q45713-342475.md)
+- [Rooftop Blackout Video Prompt](https://clawshelf.com/ai-videos/grok-imagine/rooftop-blackout-video-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@Imagvio_AI](https://x.com/Imagvio_AI/status/2113374844448293044) · [Prompt](prompts/imagvio-ai-293044.md)
+- [Cyberpunk Body Horror Transformation](https://clawshelf.com/ai-videos/grok-imagine/cyberpunk-body-horror-transformation?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@Aiminithoughts](https://x.com/Aiminithoughts/status/2113287133167239203) · [Prompt](prompts/aiminithoughts-239203.md)
 - [Elon Musk Explaining Oxygen Circulation in SpaceX Engine](https://clawshelf.com/ai-videos/grok-imagine/elon-musk-explaining-oxygen-circulation-spacex?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@CHINA_PUNTER](https://x.com/CHINA_PUNTER/status/2033062400044445904) · [Prompt](prompts/china-punter-445904.md)
 - [Grok Imagine prompt for Hachiko's life video](https://clawshelf.com/ai-videos/grok-imagine/grok-prompt-hachikos-life-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@HachikoS0L](https://x.com/HachikoS0L/status/2033111579575591089) · [Prompt](prompts/hachikos0l-591089.md)
 - [Video generation prompt: Celestial Valkyrie descending to Earth in the rain](https://clawshelf.com/ai-videos/grok-imagine/video-generation-prompt-celestial-valkyrie-descending?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@makoto_so](https://x.com/makoto_so/status/2033124612234686633) · [Prompt](prompts/makoto-so-686633.md)
@@ -92,10 +96,6 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-grok-ima
 - [Nighttime Megapolis Car Scene Prompt](https://clawshelf.com/ai-videos/grok-imagine/nighttime-megapolis-car-scene-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@AstropubSBTX](https://x.com/AstropubSBTX/status/2112616386010710451) · [Prompt](prompts/astropubsbtx-710451.md)
 - [Tesla Roadster Desert Flight](https://clawshelf.com/ai-videos/grok-imagine/tesla-roadster-desert-flight?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@AstropubSBTX](https://x.com/AstropubSBTX/status/2112596021847158826) · [Prompt](prompts/astropubsbtx-158826.md)
 - [EV Lifestyle Selfie Video](https://clawshelf.com/ai-videos/grok-imagine/ev-lifestyle-selfie-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@RadCyberTruck](https://x.com/RadCyberTruck/status/2112571075037159729) · [Prompt](prompts/radcybertruck-159729.md)
-- [Arthur AI Art History Bot](https://clawshelf.com/ai-videos/grok-imagine/arthur-ai-art-history-bot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@WGlencora](https://x.com/WGlencora/status/2112566025049039209) · [Prompt](prompts/wglencora-039209.md)
-- [Lady Leaning On Cybertruck](https://clawshelf.com/ai-videos/grok-imagine/lady-leaning-cybertruck?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@RadCyberTruck](https://x.com/RadCyberTruck/status/2112564183518646624) · [Prompt](prompts/radcybertruck-646624.md)
-- [EDM Party Animation Style](https://clawshelf.com/ai-videos/grok-imagine/edm-party-animation-style?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@raves9361](https://x.com/raves9361/status/2112521367635857468) · [Prompt](prompts/raves9361-857468.md)
-- [Grok Imagine Cosplay Pose Video Prompt](https://clawshelf.com/ai-videos/grok-imagine/grok-cosplay-pose-video-prompt?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-imagine-videos) — [@HaluAIArt](https://x.com/HaluAIArt/status/2112491518904680856) · [Prompt](prompts/haluaiart-680856.md)
 
 ## How to use a prompt
 
